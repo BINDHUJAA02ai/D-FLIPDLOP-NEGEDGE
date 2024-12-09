@@ -35,6 +35,8 @@ write all the steps invloved
 4.Analyze results, take screenshots, and generate report.
 
 **PROGRAM**
+developed by:Bindhujaa.S
+Register no:24901119
 ```
 module experiment8(D,clk,Q,Qbar);
 input D,clk;
@@ -61,4 +63,5 @@ endmodule
 
 
 **RESULTS**
+
 D flipflop using verilog and validating their functionality using their functional tables is done
